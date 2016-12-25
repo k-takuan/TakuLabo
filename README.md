@@ -3,3 +3,4 @@ This is taku's Labo!
 
 ##メンバー
 *testmenber
+*pullreqmenber
